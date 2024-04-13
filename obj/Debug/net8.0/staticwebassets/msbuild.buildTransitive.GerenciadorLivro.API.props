@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/GerenciadorLivro.API.props" />
+</Project>
